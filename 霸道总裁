@@ -1,0 +1,24 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+r	C:/Users/ASUS/Documents/xspworkspace/霸道总裁/xsp/src\main.lua	3;"	e
+tap	C:/Users/ASUS/Documents/xspworkspace/霸道总裁/xsp/src\tap.lua	2;"	f
+test1_x	C:/Users/ASUS/Documents/xspworkspace/霸道总裁/xsp/src\data1.lua	3;"	e
+test1_y	C:/Users/ASUS/Documents/xspworkspace/霸道总裁/xsp/src\data1.lua	4;"	e
+test2_x	C:/Users/ASUS/Documents/xspworkspace/霸道总裁/xsp/src\data1.lua	6;"	e
+test2_y	C:/Users/ASUS/Documents/xspworkspace/霸道总裁/xsp/src\data1.lua	7;"	e
+test3_x	C:/Users/ASUS/Documents/xspworkspace/霸道总裁/xsp/src\data1.lua	9;"	e
+test3_y	C:/Users/ASUS/Documents/xspworkspace/霸道总裁/xsp/src\data1.lua	10;"	e
+test4_x	C:/Users/ASUS/Documents/xspworkspace/霸道总裁/xsp/src\data1.lua	12;"	e
+test4_y	C:/Users/ASUS/Documents/xspworkspace/霸道总裁/xsp/src\data1.lua	13;"	e
+test5_x	C:/Users/ASUS/Documents/xspworkspace/霸道总裁/xsp/src\data1.lua	15;"	e
+test5_y	C:/Users/ASUS/Documents/xspworkspace/霸道总裁/xsp/src\data1.lua	16;"	e
+test6_qianwang_x	C:/Users/ASUS/Documents/xspworkspace/霸道总裁/xsp/src\data1.lua	20;"	e
+test6_qianwang_y	C:/Users/ASUS/Documents/xspworkspace/霸道总裁/xsp/src\data1.lua	21;"	e
+test6_x	C:/Users/ASUS/Documents/xspworkspace/霸道总裁/xsp/src\data1.lua	18;"	e
+test6_y	C:/Users/ASUS/Documents/xspworkspace/霸道总裁/xsp/src\data1.lua	19;"	e
+test7_x	C:/Users/ASUS/Documents/xspworkspace/霸道总裁/xsp/src\data1.lua	23;"	e
+test7_y	C:/Users/ASUS/Documents/xspworkspace/霸道总裁/xsp/src\data1.lua	24;"	e
