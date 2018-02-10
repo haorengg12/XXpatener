@@ -59,6 +59,11 @@
                "size" : 40,
                "text" : "\t\t群:611482393",
                "type" : "Label"
+            },
+            {
+				"src" : "1.png",
+               "type" : "Image"
+               
             }
          ]
       },
