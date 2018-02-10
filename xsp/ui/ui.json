@@ -6,7 +6,7 @@
    "cancelname" : "取消",
    "okname" : "开始",
    "cancelscroll" : true,
-   "countdown" : 8,
+   "countdown" : 7,
    "views" : [
       {
          "text" : "基本设置",
@@ -18,15 +18,13 @@
                "id" : "Edit1",
                "kbtype" : "default",
                "prompt" : "出现未知错误",
-               "size" : 30,
-               "text" : "脚本使用方法：\n1.分辨率满足1080*1920\n2.点开某一个人\n3.运行！\n\n脚本安装方法：\n1、从官网下载叉叉助手APP，运行后进入“脚本”页搜索、点击安装你要的脚本；\n2、从叉叉助手主界面“启动游戏”按钮启动该脚本对应的游戏；\n3、进入游戏，点击叉叉悬浮托盘→我的脚本→运行。",
-               "type" : "Edit"
+               "type" : "Edit",
+               "size" : 40,
+               "text" : "脚本使用方法：\n1.分辨率要满足1080*1920\n2.点开某一个小哥哥\n3.运行٩(๑>◡<๑)۶ \n4.建议设置为“一键停止脚本”\n \n（注：不支持速度切换，可能速度略快，如果出现无法运行的情况，还请告诉我\n诶嘿ε≡٩(๑>₃<)۶ ）"
             },
             {
                "id" : "checkboxgroup2",
-               "align" : "right",
-               "list" : "不再显示（按了也不好使）",
-               "orientation" : "horizontal",
+               "list" : "不再显示（按了也不会好使的啦）",
                "select" : "1",
                "type" : "CheckBoxGroup",
                "width" : 250
@@ -46,8 +44,20 @@
                      "text" : "2553193791"
                   }
                ],
-               "size" : 30,
-               "text" : "QQ:2553193791",
+               "size" : 40,
+               "text" : "\t\tQQ:2553193791",
+               "type" : "Label"
+            },
+            {
+               "color" : "100,110,200",
+               "extra" : [
+                  {
+                     "goto" : "http://shang.qq.com/wpa/qunwpa?idkey=bbe3ea1742413ef24596244650d98b2c96db5f8ccd19928998827d766cf07d45",
+                     "text" : "611482393"
+                  }
+               ],
+               "size" : 40,
+               "text" : "\t\t群:611482393",
                "type" : "Label"
             }
          ]

@@ -7,7 +7,7 @@ if(ret==1 and ret~=nil)
 then
 	while(true)
 	do
-	-- 循环点击
+		-- 循环点击
 		tap(530,715)
 		tap(613,748)
 		tap(958,1879)
