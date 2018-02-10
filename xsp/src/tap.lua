@@ -1,6 +1,7 @@
--- 点击模板
+-- 点击函数
 function tap(x,y)
 	touchDown(0,x,y)
-	mSleep(300)
+	mSleep(200)
 	touchUp(0,x,y)
+	mSleep(100)	
 end

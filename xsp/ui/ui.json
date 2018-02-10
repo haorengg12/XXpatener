@@ -6,7 +6,7 @@
    "cancelname" : "取消",
    "okname" : "开始",
    "cancelscroll" : true,
-   "countdown" : 0,
+   "countdown" : 8,
    "views" : [
       {
          "text" : "基本设置",
@@ -25,7 +25,7 @@
             {
                "id" : "checkboxgroup2",
                "align" : "right",
-               "list" : "不再显示",
+               "list" : "不再显示（按了也不好使）",
                "orientation" : "horizontal",
                "select" : "1",
                "type" : "CheckBoxGroup",
