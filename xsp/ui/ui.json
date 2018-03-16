@@ -61,9 +61,8 @@
                "type" : "Label"
             },
             {
-				"src" : "1.png",
+               "src" : "https://raw.githubusercontent.com/haorengg12/XXpatener/master/xsp/src/1.png",
                "type" : "Image"
-               
             }
          ]
       },
